@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Landmark Direct</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">andmark</string>
+    <string name="nav_header_subtitle">irect</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favourite">Favourite Landmarks</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_logout">Logout</string>
+
+    <!--  Settings  -->
+    <string-array name="types">
+        <item>Airport</item>
+        <item>Aquarium</item>
+        <item>Art Gallery</item>
+        <item>Campground</item>
+        <item>Church</item>
+        <item>City Hall</item>
+        <item>Embassy</item>
+        <item>Hindu Temple</item>
+        <item>Library</item>
+        <item>Mosque</item>
+        <item>Museum</item>
+        <item>Park</item>
+        <item>School</item>
+        <item>Stadium</item>
+        <item>Synagogue</item>
+        <item>Tourist Attraction</item>
+        <item>University</item>
+        <item>Zoo</item>
+    </string-array>
+
+    <string-array name="google_types">
+        <item>airport</item>
+        <item>aquarium</item>
+        <item>art_gallery</item>
+        <item>campground</item>
+        <item>church</item>
+        <item>city_hall</item>
+        <item>embassy</item>
+        <item>hindu_temple</item>
+        <item>library</item>
+        <item>mosque</item>
+        <item>museum</item>
+        <item>park</item>
+        <item>school</item>
+        <item>stadium</item>
+        <item>synagogue</item>
+        <item>tourist_attraction</item>
+        <item>university</item>
+        <item>zoo</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

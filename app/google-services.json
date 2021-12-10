@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745409949693",
+    "project_id": "landmark-direct-abbaf",
+    "storage_bucket": "landmark-direct-abbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745409949693:android:53e075b65ce09d1f897394",
+        "android_client_info": {
+          "package_name": "com.example.landmarkdirect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745409949693-utjgdoku0hdb5o7qeshacvddv3nujdib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsG2tOJAyLStFcpodQDn4bcyHNQ5Lrm6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745409949693-utjgdoku0hdb5o7qeshacvddv3nujdib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
