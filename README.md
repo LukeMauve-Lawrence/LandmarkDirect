@@ -1,5 +1,8 @@
 # LandmarkDirect
-Android Studios project using Google's APIs (Maps, Routes) and Firebase Database for the backend
+Android Studios project using Google's APIs (Maps, Routes) and Firebase Database for the backend <br />
+This application allows for users to see nearby landmarks. <br />
+Authentication is done through Firebase Authentication and user data is stored in Firebase Realtime Database. <br />
+Google's API is used for implementing maps, places, and routes.
 
 ## Video Demonstration
 ### Part 1
